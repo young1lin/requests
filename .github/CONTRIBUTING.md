@@ -17,6 +17,8 @@ Stack Overflow, to ensure that it is answered promptly and accurately.
 
 ## Good Bug Reports
 
+> **Found a security vulnerability?** Please do not report it in a public issue. Follow our [security policy](https://github.com/psf/requests/blob/main/.github/SECURITY.md) to report it privately.
+
 Please be aware of the following things when filing bug reports:
 
 1. Avoid raising duplicate issues. *Please* use the GitHub issue search feature
